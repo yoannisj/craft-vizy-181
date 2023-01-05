@@ -1,0 +1,84 @@
+fieldLayouts:
+  5c181466-d33d-46e2-8ca7-554fec374c6d:
+    tabs:
+      -
+        elementCondition: null
+        elements:
+          -
+            autocapitalize: true
+            autocomplete: false
+            autocorrect: true
+            class: null
+            disabled: false
+            elementCondition: null
+            id: null
+            instructions: null
+            label: null
+            max: null
+            min: null
+            name: null
+            orientation: null
+            placeholder: null
+            readonly: false
+            requirable: false
+            size: null
+            step: null
+            tip: null
+            title: null
+            type: craft\fieldlayoutelements\entries\EntryTitleField
+            uid: 143cf26b-a477-487b-bfe4-8eed39fcf203
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            elementCondition: null
+            fieldUid: 487cd774-5abb-4659-9a44-bdf26d8cf61e # Image
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 57d81a52-67b6-46ec-b461-951dba136883
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            elementCondition: null
+            fieldUid: 12ad923c-1b47-4be3-9f2d-6fbeae0aa93e # Rich Content (Vizy)
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 26c45475-80ef-407f-bb8d-8a49562a4dbb
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            elementCondition: null
+            type: craft\fieldlayoutelements\HorizontalRule
+            uid: d62f293a-86e2-405d-bc15-d0e1517ce037
+            userCondition: null
+          -
+            elementCondition: null
+            fieldUid: 3f82f98e-b9b7-45de-a8c9-9d48fef07bcd # Content Blocks (Neo)
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 0108be4d-4975-42af-837b-f458aa7a5244
+            userCondition: null
+            warning: null
+            width: 100
+        name: Content
+        uid: 857be776-7e36-46c3-b55b-1e1661d94a86
+        userCondition: null
+handle: page
+hasTitleField: true
+name: Page
+section: 006bba92-4695-41cf-840d-8c701633c691 # Pages
+sortOrder: 1
+titleFormat: null
+titleTranslationKeyFormat: null
+titleTranslationMethod: site

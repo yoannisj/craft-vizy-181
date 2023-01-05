@@ -1,0 +1,19 @@
+columnSuffix: kuewftyt
+contentColumnType: text
+fieldGroup: 7b61504b-8052-43b5-89c3-0e16dad5efba # Common
+handle: heading
+instructions: null
+name: Heading
+searchable: false
+settings:
+  byteLimit: null
+  charLimit: null
+  code: false
+  columnType: null
+  initialRows: 4
+  multiline: false
+  placeholder: null
+  uiMode: normal
+translationKeyFormat: null
+translationMethod: none
+type: craft\fields\PlainText

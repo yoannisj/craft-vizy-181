@@ -1,0 +1,49 @@
+dateModified: 1672941497
+email:
+  fromEmail: yoannis@ynm.studio
+  fromName: 'Debug Vizy 181'
+  transportType: craft\mail\transportadapters\Sendmail
+fs:
+  localFiles:
+    hasUrls: true
+    name: 'Local Files'
+    settings:
+      path: '@localFilesPath'
+    type: craft\fs\Local
+    url: '@localFilesUrl'
+meta:
+  __names__:
+    1e9e9a14-72a4-4093-b02b-6869e1ae9fa0: Heading # Heading
+    2e1b87c9-2c85-4e01-8cd3-02ff75c6fc28: Topic # Topic
+    3f82f98e-b9b7-45de-a8c9-9d48fef07bcd: 'Content Blocks (Neo)' # Content Blocks (Neo)
+    006bba92-4695-41cf-840d-8c701633c691: Pages # Pages
+    7b61504b-8052-43b5-89c3-0e16dad5efba: Common # Common
+    12ad923c-1b47-4be3-9f2d-6fbeae0aa93e: 'Rich Content (Vizy)' # Rich Content (Vizy)
+    487cd774-5abb-4659-9a44-bdf26d8cf61e: Image # Image
+    a0955f9e-2dd8-4c0d-88e7-561a0d2f0973: 'Local Files' # Local Files
+    c1d05648-15bc-4c24-8069-b17513693b45: 'Debug Vizy 181' # Debug Vizy 181
+    c383d535-f125-44a2-8c7e-c83a816b00d6: Page # Page
+    d69a17cc-1b68-4b04-859e-a385ae46ab5d: 'Debug Vizy 181' # Debug Vizy 181
+plugins:
+  neo:
+    edition: standard
+    enabled: true
+    licenseKey: CC1X2WZ5X4RKX2WRVFDHJW2Q
+    schemaVersion: 3.5.2
+  vizy:
+    edition: standard
+    enabled: true
+    licenseKey: HBP6NZT6766CNKJN5ELYHUR3
+    schemaVersion: 0.9.0
+system:
+  edition: solo
+  live: true
+  name: 'Debug Vizy 181'
+  schemaVersion: 4.0.0.9
+  timeZone: America/Los_Angeles
+users:
+  allowPublicRegistration: false
+  defaultGroup: null
+  photoSubpath: null
+  photoVolumeUid: null
+  requireEmailVerification: true

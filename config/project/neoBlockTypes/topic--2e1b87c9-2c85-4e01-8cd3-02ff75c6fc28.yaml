@@ -1,0 +1,51 @@
+childBlocks: null
+conditions: null
+description: ''
+enabled: true
+field: 3f82f98e-b9b7-45de-a8c9-9d48fef07bcd # Content Blocks (Neo)
+fieldLayouts:
+  05e80779-d457-459d-90a8-601c6a72c5fb:
+    tabs:
+      -
+        elementCondition: null
+        elements:
+          -
+            elementCondition: null
+            fieldUid: 1e9e9a14-72a4-4093-b02b-6869e1ae9fa0 # Heading
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: b385f0b4-3072-47f4-bfea-34ea8bc0c18d
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            elementCondition: null
+            fieldUid: 12ad923c-1b47-4be3-9f2d-6fbeae0aa93e # Rich Content (Vizy)
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: f6154c55-f880-44cc-8e3e-224c28a3eee1
+            userCondition: null
+            warning: null
+            width: 100
+        name: Main
+        uid: 763e4886-11d8-4771-8d8b-39b0e4a04c28
+        userCondition: null
+group: null
+groupChildBlockTypes: true
+handle: topic
+ignorePermissions: true
+maxBlocks: 0
+maxChildBlocks: 0
+maxSiblingBlocks: 0
+minBlocks: 0
+minChildBlocks: 0
+minSiblingBlocks: 0
+name: Topic
+sortOrder: 1
+topLevel: true

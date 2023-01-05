@@ -1,0 +1,85 @@
+columnSuffix: dmndrogy
+contentColumnType: text
+fieldGroup: 7b61504b-8052-43b5-89c3-0e16dad5efba # Common
+handle: richContent
+instructions: null
+name: 'Rich Content (Vizy)'
+searchable: false
+settings:
+  availableTransforms: ''
+  availableVolumes: ''
+  columnType: text
+  configSelectionMode: choose
+  defaultTransform: ''
+  fieldData:
+    -
+      __assoc__:
+        -
+          - id
+          - group-IswqcoYZQs
+        -
+          - name
+          - Media
+        -
+          - blockTypes
+          -
+            -
+              __assoc__:
+                0:
+                  - id
+                  - type-WDAor1xNrx
+                1:
+                  - name
+                  - Image
+                2:
+                  - handle
+                  - image
+                3:
+                  - icon
+                  -
+                    __assoc__:
+                      -
+                        - label
+                        - Image
+                      -
+                        - value
+                        - image-regular
+                5:
+                  - enabled
+                  - true
+                6:
+                  - layoutUid
+                  - fbaff0a2-f624-437b-98b3-a5d96b3de685
+                7:
+                  - layoutConfig
+                  -
+                    __assoc__:
+                      -
+                        - tabs
+                        -
+                          -
+                            __assoc__:
+                              0:
+                                - name
+                                - Main
+                              1:
+                                - uid
+                                - 9bb381c4-ebf4-460b-aa4d-bed5522abb4d
+                              4:
+                                - elements
+                                -
+                                  -
+                                    __assoc__:
+                                      0: [type, craft\fieldlayoutelements\CustomField]
+                                      5: [required, false]
+                                      6: [width, 100]
+                                      7: [uid, 0b17e829-6195-47eb-a0b0-042232bbd673]
+                                      10: [fieldUid, 487cd774-5abb-4659-9a44-bdf26d8cf61e] # Image
+  manualConfig: ''
+  showUnpermittedFiles: false
+  showUnpermittedVolumes: false
+  trimEmptyParagraphs: true
+  vizyConfig: ''
+translationKeyFormat: null
+translationMethod: none
+type: verbb\vizy\fields\VizyField
